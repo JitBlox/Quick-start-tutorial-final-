@@ -1,0 +1,17 @@
+.div-1 {
+    height: 100%;
+    display: grid;
+    grid-template-columns: 200px auto;
+    grid-template-rows: max-content auto max-content;
+}
+
+.div-2 {
+    grid-column-start: 1;
+    grid-column-end: -1;
+}
+
+.div-5 {
+    grid-column-start: 1;
+    grid-column-end: -1;
+}
+
