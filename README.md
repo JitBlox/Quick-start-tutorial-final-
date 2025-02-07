@@ -1,5 +1,7 @@
 # Quick start tutorial (final)
 
+This project contains the final result of the [JitBlox quick start tutorial](https://www.jitblox.com/docs/tutorial/quick-start-application-layout). Check out the tutorial and learn how to create layouts, navigation and data binding without coding!
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.6.
 
 ## Development server
